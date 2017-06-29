@@ -1,6 +1,6 @@
 print ("ofir's testing project is loading")
 print ("hello world!")
-continuep = input ("this program is going to ask you some questions, click enter to continue, otherwise close the window ")
+raw_input ("this program is going to ask you some questions, click enter to continue, otherwise close the window ")
 name = input ("what is your name? ")
 age = input ("what is your age? ")
 email = input ("what is your email? ")
